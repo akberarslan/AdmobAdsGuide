@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Admob Ads Guide</string>
+    <string name="banner_id">YOUR BANNER AD ID</string>
+    <string name="interstitial_id">YOUR INTERSTITIAL AD ID</string>
+    <string name="deviceID">YOUR DEVICE ID</string>
+</resources>

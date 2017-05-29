@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/akbar/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta1/constraint-layout-solver-1.0.0-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac4965ed6786f8d63f1960a996a6be667064cd28">
+        <dex dex="/Users/akbar/Desktop/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta1_ce1f53df5c661cff3427891f9dd92c6ebd481305.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akbar/.android/build-cache/23677720675069015f36f42bc037240c3db37fae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ad8321cff5fa475cb39daf387b3cb581aab17f">
+        <dex dex="/Users/akbar/Desktop/app/build/intermediates/pre-dexed/debug/classes_0fdc64aebd5a523a5fb1cfbdb60d5b702bc502a8.jar" />
+    </item>
+
+</items>
